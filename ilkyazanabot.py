@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import random
 import telethon
 
-# Botu kullanabilirsiniz tek ricamız @BotAltyapiKanali katılmanız 
+# Botu kullanabilirsiniz tek ricamız @BotAltyapiKanali katılmanız nam nam
 
 bot_calisiyor = False
 
