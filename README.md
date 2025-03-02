@@ -1,1 +1,1 @@
-# -lkYazanaBot
+# İlkYazanaBot
